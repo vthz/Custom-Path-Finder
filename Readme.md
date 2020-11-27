@@ -10,7 +10,7 @@ And this will provide you the path between your coordinates.
 
 
 ## Status 
-This is working fine for some coordinatess. But for some coordinates lines 
+This is working fine but, for some coordinates lines 
 seems to be going over the maze boundry. Still working hope someday 
-i will find the solution!!!
+I will find the solution!!!
  
